@@ -16,7 +16,7 @@
 - `Interfaz de seleccionr`: Despues de escribir la cantidad a convertir, se abre el menu para seleccionar las multiples opciones para convertir en este caso, se pone de ejemplo el conversor de monedas.
    <p align="center"><img src="https://github.com/JEnriqueRiosAnaya/Conversor-de-monedas/assets/121779105/22a58854-878a-4341-9295-1519fa13184a" width="500"/></p>
 -  `Input de Resultado`: Despues de seleccionar la opcion se muestra la pantalla del resultado de las conversion.
-   <p align="center"><img src="https://github.com/JEnriqueRiosAnaya/Conversor-de-monedas/assets/121779105/22a58854-878a-4341-9295-1519fa13184a" width="500"/></p>
+   <p align="center"><img src="https://github.com/JEnriqueRiosAnaya/Conversor-de-monedas/assets/121779105/65b4a17b-10cc-431d-9014-359d02c41abf" width="500"/></p>
 -  `Input Continuar`: Se muestra una ventana emergente para continuar el sistema para realizar otra conversion o terminar el programa.
    <p align="center"><img src="https://github.com/JEnriqueRiosAnaya/Conversor-de-monedas/assets/121779105/ba28dc3d-a70d-4e42-821d-9891398e0061" width="500"/></p>
 -  `Finalizar`: Al seleccionar que no se quiere continuar se muestra la siguiente pantalla de que el programa ha terminado.
